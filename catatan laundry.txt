@@ -1,0 +1,10 @@
+berarti loginnya tuh kan udh ada dashboard, disitu cuma 
+
+--dashboard controller gak perlu berarti
+-- nama outlet pake auth
+--- berarti cuma bedain dashboard disitu
+
+buat detail transaksi pake input tapi input nya aja nanti form nya di readonly
+isinya :
+
+-id transaksi
